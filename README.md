@@ -9,7 +9,7 @@ The project consists of the following files and directories:
 * `FingerCounter.py`: A script for counting the number of raised fingers using hand tracking.
 * `HandTrackingModule.py`: A custom module using Mediapipe for hand tracking.
 * `requirements.txt`: A file listing the required Python packages.
-* `fingers_images/`: A directory containing images used for displaying the number of raised fingers.
+* `fingers_images`: A directory containing images used for displaying the number of raised fingers.
 
 ## Using the Project
 
